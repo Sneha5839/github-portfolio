@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Selenium Java Framework — Web Regression Suite",
+    "description": "A maintainable Selenium WebDriver framework in Java with Page Object Model, TestNG, parallel execution, and Allure reporting.",
+    "tech": ["Selenium", "Java", "TestNG", "Maven", "Allure"],
+    "repo_url": "https://github.com/your-org/selenium-java-framework",
+    "demo_url": ""
+  },
+  {
+    "title": "E2E BDD — Cucumber BDD Automation",
+    "description": "Feature-driven end-to-end tests using Cucumber with readable feature files, step definitions and CI integration.",
+    "tech": ["Cucumber", "Gherkin", "Selenium", "Java"],
+    "repo_url": "https://github.com/your-org/cucumber-bdd-tests",
+    "demo_url": ""
+  },
+  {
+    "title": "Playwright E2E — Modern App Testing",
+    "description": "Fast, reliable Playwright tests with cross-browser coverage and parallelism, written in TypeScript.",
+    "tech": ["Playwright", "TypeScript", "Jest", "CI"],
+    "repo_url": "https://github.com/your-org/playwright-e2e",
+    "demo_url": ""
+  }
+]
