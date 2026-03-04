@@ -25,6 +25,17 @@ body{
 
 h1{margin:0;font-size:26px}
 h2{color:#cfe2ff;margin-top:30px}
+.subtitle{
+  display:inline-block;
+  margin:6px 0 0;
+  padding:4px 10px;
+  border-radius:999px;
+  background:rgba(59,130,246,0.15);
+  color:#b7d1ff;
+  font-size:14px;
+  font-weight:600;
+  letter-spacing:0.2px;
+}
 #about-text{color:var(--muted);line-height:1.6}
 
 .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px;margin-top:16px}
