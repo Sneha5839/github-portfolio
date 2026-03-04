@@ -16,7 +16,7 @@ body{
 }
 .container{max-width:980px;margin:0 auto;padding:28px}
 .site-header{padding:36px 0;border-bottom:1px solid rgba(255,255,255,0.02)}
-.site-header .tagline{color:var(--muted);margin-top:6px}
+.site-header .tagline{color:var(--muted);margin-top:6px;text-align:center}
 .skills{margin-top:14px}
 .skill{display:inline-block;background:rgba(255,255,255,0.03);padding:6px 10px;border-radius:8px;margin-right:8px;color:var(--muted);font-size:13px}
 
