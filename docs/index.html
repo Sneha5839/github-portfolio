@@ -52,9 +52,11 @@
     // Load projects.json and render cards
     async function loadProjects() {
       try {
-        const res = await fetch('projects.json');
+        const res = await fetch(`projects.json?v=${Date.now()}`, { cache: 'no-store' });
         const projects = await res.json();
         const grid = document.getElementById('project-grid');
+
+        grid.innerHTML = '';
 
         projects.forEach(p => {
           const card = document.createElement('article');
