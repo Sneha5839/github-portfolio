@@ -1,7 +1,7 @@
 [
   {
     "title": "E2E BDD — Cucumber BDD Automation",
-    "description": "Feature-driven end-to-end tests using Cucumber with readable feature files, step definitions and CI integration.",
+    "description": "Feature-driven end-to-end tests using Cucumber with readable feature files, step definitions and Allure reporting.",
     "tech": ["Cucumber", "Gherkin", "Selenium", "Java"],
     "repo_url": "https://github.com/Sneha5839/Selenium-cucumber-project",
     "demo_url": ""
