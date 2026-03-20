@@ -7,7 +7,7 @@
     "demo_url": ""
   },
   {
-    "title": "Playwright E2E — Modern App Testing ",
+    "title": "Playwright E2E — Modern App Testing (in progress) ",
     "description": "Fast, reliable Playwright tests with cross-browser coverage and parallelism, written in TypeScript.",
     "tech": ["Playwright", "TypeScript", "Jest", "CI"],
     "repo_url": "https://github.com/your-org/playwright-e2e",
