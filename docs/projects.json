@@ -10,7 +10,7 @@
     "title": "Playwright E2E — Modern App Testing (in progress) ",
     "description": "Fast, reliable Playwright tests with cross-browser coverage and parallelism, written in TypeScript.",
     "tech": ["Playwright", "TypeScript", "Jest", "CI"],
-    "repo_url": "https://github.com/your-org/playwright-e2e",
+    "repo_url": "https://github.com/Sneha5839/github-portfolio",
     "demo_url": ""
   }
 ]
